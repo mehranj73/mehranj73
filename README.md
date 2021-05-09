@@ -3,7 +3,7 @@
 <br>
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehranj73&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehranj73&hide_border=true&layout=compact&hide=javascript,css,html,scss" align="left" />
 
 <br>
 
